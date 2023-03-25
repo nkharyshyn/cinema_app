@@ -48,11 +48,9 @@ Also my cinema in addition to the role of user, also supports the role of admin 
     <li>install MySQL;</li>
     <li>configure connection to your DB in <code>db.properties</code> by setting your own properties <br>
       for fields: <code>YOUR_DRIVER</code>, <code>YOUR_DATABASE_URL</code>, <code>YOUR_USERNAME</code>, <code>YOUR_PASSWORD</code>;</li>
-    <li>Hibernate 5.6.14.Final;</li>
-    <li>Java Servlet API 4.0.1;</li>
-    <li>Spring 5.3.20;</li>
-    <li>Spring Security 5.6.10;</li>
-    <li>Tomcat 9.0.50.</li>
+    <li><code>Edit configurations...</code> for Tomcat;</li>
+    <li>run the project;</li>
+    <li>you can use Postman to send requests to my app</li>
   </ul>
  </h4>
 <img src="img/movieTape.png">
